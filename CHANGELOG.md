@@ -1,5 +1,24 @@
 # Changelog
 
+### [10.0.2](https://www.github.com/nodejs/node-gyp/compare/v10.0.1...v10.0.2) (2024-01-25)
+
+
+### Miscellaneous
+
+* only run release please on push ([cff9ac2](https://www.github.com/nodejs/node-gyp/commit/cff9ac2c3083769a383e00bc60b91562f03116e3))
+
+
+### Doc
+
+* remove outdated Node versions from readme ([#2955](https://www.github.com/nodejs/node-gyp/issues/2955)) ([ae8478e](https://www.github.com/nodejs/node-gyp/commit/ae8478ec32d9b2fa71b591ac22cdf867ef2e9a7d))
+* remove outdated update engines.node reference in 10.0.0 changelog ([b42e796](https://www.github.com/nodejs/node-gyp/commit/b42e7966177f006f3d1aab1d27885d8372c8ed01))
+
+
+### Core
+
+* **deps:** bump actions/setup-python from 4 to 5 ([#2960](https://www.github.com/nodejs/node-gyp/issues/2960)) ([3f0df7e](https://www.github.com/nodejs/node-gyp/commit/3f0df7e9334e49e8c7f6fdbbb9e1e6c5a8cca53b))
+* **deps:** bump google-github-actions/release-please-action ([#2961](https://www.github.com/nodejs/node-gyp/issues/2961)) ([b1f1808](https://www.github.com/nodejs/node-gyp/commit/b1f1808bfff0d51e6d3eb696ab6a5b89b7b9630c))
+
 ### [10.0.1](https://www.github.com/nodejs/node-gyp/compare/v10.0.0...v10.0.1) (2023-11-02)
 
 
